@@ -3,9 +3,7 @@ terraform {
   required_version = ">= 0.14"
 }
 
-provider "aws" {
-  region = "us-east-1"
-}
+provider "aws" {}
 
 locals {
   system_name = "vouch-operations"
