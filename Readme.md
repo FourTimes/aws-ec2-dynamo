@@ -30,7 +30,7 @@ commands
 Results
 
 
-!(images/dynamodb-results.png)
+![](images/dynamodb-results.png)
 
 
 
